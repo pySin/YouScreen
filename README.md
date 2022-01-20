@@ -1,2 +1,2 @@
 # YouScreen
-Street marketing application.
+Post an ad or say something.
