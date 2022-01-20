@@ -21,7 +21,10 @@ YouScreen could be of interest to event organisers as well. Events take place at
 ## Tasks
 
 1. Create a website to receive orders for ads from clients and recieve the payment for it.
+
 1.1. Create a database to recieve the details from the ad orders.
 2. Create a software to present the ads on a screen.
+
 2.1. Make a script to get a time interval and a picture for each ad(the ads are pictures with labels on them).
+
 2.2. Make a script to show general(non-campaign ads) for the empty non-paid time slots.
