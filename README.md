@@ -27,6 +27,6 @@ YouScreen could be of interest to event organisers as well. Events take place at
 
 2. Create a software to present the ads on a screen.
 
-2.1. Make a script to get a time interval and a picture for each ad(the ads are pictures with labels on them).
+2.1. Make a script to get a time interval and a picture path for each ad(the ads are pictures with labels on them) from the database.
 
 2.2. Make a script to show general(non-campaign ads) for the empty non-paid time slots.
