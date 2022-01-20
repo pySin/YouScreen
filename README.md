@@ -18,6 +18,8 @@ People with freelance jobs are also disadvantaged because of the expensive ads. 
 
 YouScreen could be of interest to event organisers as well. Events take place at certain time and venue. Event organisers could easily decide in which area/areas they would like to place their ads and make them appear just a week before the event, for example. Expenses on paper, printing services and poster distributions could be easily saved. Not to mention that ads on YouScreen are much more ecologically friendly.
 
+* The ad should be submitted and approved beforhand.
+
 ## Tasks
 
 1. Create a website to receive orders for ads from clients and recieve the payment for it.
