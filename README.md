@@ -17,3 +17,11 @@ Publishing an ad would be very easy and affordable for everyone. Small businesse
 People with freelance jobs are also disadvantaged because of the expensive ads. Musicians, painters, photographers and many others are constrained to advertise their services mainly online, where accountability and correctness are difficult to trace.
 
 YouScreen could be of interest to event organisers as well. Events take place at certain time and venue. Event organisers could easily deside in which area/areas they would like to place their ads and make them appear just a week before the event, for example. Expenses on paper, printing services and poster distributions could be easily saved. Not to mention that ads on YouScreen are much more ecologically friendly.
+
+## Tasks
+
+1. Create a website to receive orders for ads from clients and recieve the payment for it.
+1.1. Create a database to recieve the details from the ad orders.
+2. Create a software to present the ads on a screen.
+2.1. Make a script to get a time interval and a picture for each ad(the ads are pictures with labels on them).
+2.2. Make a script to show general(non-campaign ads) for the empty non-paid time slots.
