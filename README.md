@@ -2,6 +2,7 @@
 Post an ad or say something.
 ## Introduction
 The aim of the project is to place monitors at busy public places on which everyone can pay to publish their own advertisment. Everyone will be able to show their ad on the screen for less than 10 minutes.*
+![Show the MySQL Data Imort Wizard](https://github.com/pySin/YouScreen/blob/main/pictures/YouScreen_TV_ad.jpg?raw=true)
 
 YouScreen could be very useful and beneficial for all sorts of businesses that aims to reach a wider audience. 
 YouScreen could also be a great opportunity for anyone who wants to sell something or promote their services(cars, properties, jewelry, cleaning services, accounting servicess etc.)
