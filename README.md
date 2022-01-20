@@ -35,6 +35,7 @@ YouScreen could be of interest to event organisers as well. Events take place at
 
 ## Technologies used
 MySQL Workbench
+
 Python(mysql.connector, Tkinter, PIL, os and time libraries).
 
 
