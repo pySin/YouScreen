@@ -8,7 +8,7 @@ YouScreen could be useful and beneficial for all sorts of businesses that aim to
 YouScreen could be also a great opportunity for anyone willing to sell something or promote their services (cars, properties, jewellery, cleaning services, accounting services etc.)
 Clients will be charged only for the time during which their announcement is being shown on the screen. Every YouScreen could contain several advertisement or sub-windows, depending on the size of the screen itself. 
 
-The greatest advantage of YouScreen would be its transparency and high reliability. Every customer, who buys his ad slot, will be able to check if their ad is shown on the right place and at the time he booked. For example, if someone pays for their one hour advertisement or announcement to be shown between 5pm and 6pm, then the add will be visualised for 20 seconds in every 5 minutes on one of the 6 windows of the YouScreen you have chosen.
+The greatest advantage of YouScreen would be its transparency and high reliability. Every customer, who buys his ad slot, will be able to check if their ad is shown on the right place and at the time he booked. For example, if someone pays for their one hour advertisement or announcement to be shown between 5pm and 6pm, then the ad will be visualised for 20 seconds in every 5 minutes on one of the 6 windows of the YouScreen you have chosen.
 
 Another important advantage of YouScreen that is worth considering is the wide range of possibilities that it offers. Every YouScreen monitor will have a unique QR code which allows customers to scan the code and then publish their ad or announcement. Furthermore, clients will be able to choose both the time slot and duration of their own ad.
 
