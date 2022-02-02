@@ -16,7 +16,7 @@ Publishing ads would be very easy and affordable for all types of customers. Sma
 
 People with freelance jobs are in many ways disadvantaged when it comes to expensive ads. Musicians, painters, photographers and many others are constrained to mainly advertise their services on online platforms, where, however, accountability and correctness are difficult to be traced.
 
-:Likewise, YouScreen could be of interest to event organisers. Events usually take place at certain time and venue. Event organisers could easily decide in which area/areas they would like to place their ads and set them appear only a week before the planed event, for example. Thus, expenses related to printing services and poster distributions can be easily avoided. Another thing to highlight here is that ads on YouScreen will be much more ecologically friendly than ads on paper or fleers, for example.
+Likewise, YouScreen could be of interest to event organisers. Events usually take place at certain time and venue. Event organisers could easily decide in which area/areas they would like to place their ads and set them appear only a week before the planed event, for example. Thus, expenses related to printing services and poster distributions can be easily avoided. Another thing to highlight here is that ads on YouScreen will be much more ecologically friendly than ads on paper or fleers, for example.
 
 * The ad should be submitted and approved beforhand.
 
