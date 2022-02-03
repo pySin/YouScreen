@@ -34,7 +34,7 @@ Likewise, YouScreen could be of interest to event organisers. Events usually tak
 2.2. Make a script to show general(non-campaign ads) for the empty non-paid time slots.
 
 ## Technologies used
-MySQL Workbench
+MySQL
 
 Python(mysql.connector, Tkinter, PIL, os and time libraries).
 
