@@ -18,9 +18,19 @@ class YouScreen:
 
         # A list for the paid graphics.
         self.paid_pic_paths_1 = []
+        self.paid_pic_paths_2 = []
+        self.paid_pic_paths_3 = []
+        self.paid_pic_paths_4 = []
+        self.paid_pic_paths_5 = []
+        self.paid_pic_paths_6 = []
 
         # A list for all the non-resized graphics.
-        self.fifteen_paths = []
+        self.fifteen_paths_1 = []
+        self.fifteen_paths_2 = []
+        self.fifteen_paths_3 = []
+        self.fifteen_paths_4 = []
+        self.fifteen_paths_5 = []
+        self.fifteen_paths_6 = []
 
         # Lists for resized and ready for their frames graphics.
         self.monitor_1 = []
