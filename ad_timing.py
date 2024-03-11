@@ -43,8 +43,8 @@ class MysqlQuery:
         print('Query:', query)
 
         # Connecting to the database.
-        connection = mysql.connector.connect(user='youscree_plastelin', password='alexdog83',
-                                             host='85.187.142.69')
+        connection = mysql.connector.connect(user='xxxxxxxxxxxx', password='xxxxxxxx',
+                                             host='xx:xx:xxx:xx')
 
         # Create a cursor to operate in the database server.
         cursor = connection.cursor()
